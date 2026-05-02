@@ -4,7 +4,7 @@
 
 [![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/felipesilvaferraz18-arch)
 
-### MEUS CONHECIMENTO:
+### MEUS CONHECIMENTOS:
 
 ![Blog](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 ![Blog](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
