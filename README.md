@@ -2,6 +2,12 @@
 
 ### Olá! Meu nome é Felipe e Sejam bem-Vindos ao meu Perfil
 
+### SOBRE MIM:
+
+- 🐍 Praticando automação e scripts com **Python**.
+- 🇯🇵 Estudando japonês (Foco no **JLPT N5**).
+- 🎓 Estudante de **TI** no **Senac Lapa Tito**.
+
 ### HABILIDADES:
 
 ![Blog](https://img.shields.io/badge/Linux_Terminal-000000?style=for-the-badge&logo=gnuterminal&logoColor=white)
@@ -23,3 +29,6 @@
 ### OFFICES QUE UTILIZO:
 
 ![Blog](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)![Blog](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)![Blog](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)![Blog](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)![Blog](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+
+
