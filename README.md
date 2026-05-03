@@ -4,9 +4,9 @@
 
 ### SOBRE MIM:
 
+- 🎓 Estudante de **TI** no **Senac Lapa Tito**.
 - 🐍 Praticando automação e scripts com **Python**.
 - 🇯🇵 Estudando japonês (Foco no **JLPT N5**).
-- 🎓 Estudante de **TI** no **Senac Lapa Tito**.
 
 ### HABILIDADES:
 
